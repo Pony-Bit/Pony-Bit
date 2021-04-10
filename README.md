@@ -2,8 +2,8 @@
 
 Hi, I'm Pony, a passionate self-taught Software developer.
 
-- 🔭 Currently I work for a digital currency exchange
-- 🌱 I’m currently learning Algorithm design and Blockchain related knowledge
+- 🔭 Currently I work for a digital currency exchange.
+- 🌱 I’m currently learning Algorithm design and Blockchain related knowledge.
 - 📫 How to reach me: Please send an email to 13500815917@163.com
 
 **Languages and Tools:**
