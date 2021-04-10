@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on ...
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pony13500815917)
 
 **Languages and Tools:**
 
