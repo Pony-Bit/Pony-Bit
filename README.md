@@ -5,9 +5,10 @@
 
 **Languages and Tools:**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript)
+![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
+![TypeScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png)
 ![Solidity](https://img.shields.io/badge/-Solidity-%23F7DF1C?style=flat-square&logo=solidity)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![React](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
 ![Node.js](https://img.shields.io/badge/-Node.js-%232c3e50?style=flat-square&logo=node.js)
 
 
