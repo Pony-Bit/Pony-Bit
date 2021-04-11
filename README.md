@@ -2,6 +2,7 @@
 
 Hi, I'm Pony, a passionate self-taught Software developer.
 
+- 💝 I'm a decentralized believer, not a believer in digital money.
 - 🔭 Currently I work for a digital currency exchange.
 - 🌱 I’m currently learning Algorithm design and Blockchain related knowledge.
 - 📫 How to reach me: Please send an email to 13500815917@163.com
