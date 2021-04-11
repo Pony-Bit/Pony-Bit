@@ -1,6 +1,6 @@
 ### Hi there ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pony13500815917)
 
-Hi, I'm Pony, a passionate self-taught Software developer.
+Hi, I'm Pony, a passionate self-taught Software developer 👋🏼
 
 - 💝 I'm a decentralized believer, not a believer in digital money.
 - 🔭 Currently I work for a digital currency exchange.
