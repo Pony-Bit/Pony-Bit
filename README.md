@@ -2,7 +2,7 @@
 
 Hi, I'm Pony, a passionate self-taught Software developer 👋🏼
 
-- 💝 I'm a decentralized believer, not a believer in digital money.
+- 💝 I'm a decentralized believer, not a believer in cryptocurrency.
 - 🔭 Currently my main job GameFi.
 - 🌱 I’m currently learning Algorithm design and Blockchain related knowledge.
 - 📫 How to reach me: Please send an email to 13500815917@163.com
