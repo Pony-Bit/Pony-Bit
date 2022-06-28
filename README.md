@@ -1,11 +1,11 @@
-### Hi there ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pony13500815917)
+### Hi there ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pony-Bit)
 
 Hi, I'm Pony, a passionate self-taught Software developer 👋🏼
 
 - 💝 I'm a decentralized believer, not a believer in cryptocurrency.
 - 🔭 Currently my main job GameFi.
 - 🌱 I’m currently learning Algorithm design and Blockchain related knowledge.
-- 📫 How to reach me: Please create issues in other public repositories
+- 📫 How to reach me: Please create issues and try to write your intentions.
 
 **Languages and Tools:**
 
