@@ -1,4 +1,4 @@
-### Hi there ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pony-Effect)
+### Hi there ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pony-Unicorn)
 
 Hi, I'm Pony, a passionate self-taught Software developer 👋🏼
 
@@ -18,5 +18,5 @@ Hi, I'm Pony, a passionate self-taught Software developer 👋🏼
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" height="30" alt="MySql"/></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" height="30" alt="MongoDB"/></code>
 
-![Pony GitHub stats](https://github-readme-stats.vercel.app/api?username=Pony-Effect&count_private=true&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pony-Effect&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Pony GitHub stats](https://github-readme-stats.vercel.app/api?username=Pony-Unicorn&count_private=true&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pony-Unicorn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
